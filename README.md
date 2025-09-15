@@ -1,6 +1,6 @@
 # kisel
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDM2bmI2eHFoNXo5ODZza3pxcjg2c2VybTVvZTBqYXdiMGcydnh2aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HNqcumvSGHYjK/giphy.gif" width="700"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycWdyNGxicWJoMG80ZGZ2dWh3c3Q0ZXFkdW5tbG5jMzJvNDg0d2x0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/14bIOqzosACyuA/200w.webp" width="700"/>
 </div>
 
 <div id="header" align="center">
@@ -23,6 +23,11 @@ Games: Ultrakill, SUBNAUTICA, Detroit, cry of fear, afraid of monsters, Silent h
 
 Anime: Jjba, Kaiju n8, Mob psycho 100, One punch man, JJK, Pacific Rim: Dark Zone, Master of All Paws the Cat is Sad Again, Miss Kobayashi's Dragon Maid, No Guns Life.
 
+<div id="header" align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUycWdyNGxicWJoMG80ZGZ2dWh3c3Q0ZXFkdW5tbG5jMzJvNDg0d2x0ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7lDQiLTSCUef6/200w.webp" width="700"/>
+</div>
+
+<div id="header" align="center">
 
 ## abt me
 
