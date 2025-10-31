@@ -6,7 +6,7 @@
  </div><div id="header" align="center">
 </div>
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/37a43647174cf99f19833b8b4f893ac3/7698c3279c498796-62/s540x810/ae34db6164a4e2de7c95059f9a7c73789504ace2.gifv" width="700"/>
+  <img src="https://64.media.tumblr.com/b796b93c2074151d369cc402a95d8ded/9cacebf979635d13-ef/s540x810/f2c2c91aea23b49ef3f0088160fda92fb583c557.gifv" width="700"/>
 </div>
 
 # 
@@ -33,7 +33,7 @@
 ➥ ᴀɴɪᴍᴇ: ᴊᴊʙᴀ, ᴋᴀɪᴊᴜ ɴ8, ᴍᴏʙ ᴘsʏᴄʜᴏ 100, ᴏɴᴇ ᴘᴜɴᴄʜ ᴍᴀɴ, ᴊᴊᴋ, ᴘᴀᴄɪғɪᴄ ʀɪᴍ: ᴅᴀʀᴋ ᴢᴏɴᴇ, ᴍᴀsᴛᴇʀ ᴏғ ᴀʟʟ ᴘᴀᴡs ᴛʜᴇ ᴄᴀᴛ ɪs sᴀᴅ ᴀɢᴀɪɴ, ᴍɪss ᴋᴏʙᴀʏᴀsʜɪ's ᴅʀᴀɢᴏɴ ᴍᴀɪᴅ, ɴᴏ ɢᴜɴs ʟɪғᴇ.
 
 <p align="center">
-      <img width="1280" height="920" alt="image" src="https://64.media.tumblr.com/f0f007273e441556bfda66b0aa397da8/1fcf1d3b466aafa5-bb/s1280x1920/b77ce955e82b44f7204d862034a7880dd7bd7053.jpg" />
+      <img width="1280" height="920" alt="image" src="https://64.media.tumblr.com/5460729cdbfd73e01bc740735e046a85/1fcf1d3b466aafa5-16/s1280x1920/26a4e9f8851e1b975ccab17567433cae38384e8d.jpg" />
 
 <div id="header" align="center">
 
