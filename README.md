@@ -32,9 +32,8 @@
 
 ➥ ᴀɴɪᴍᴇ: ᴊᴊʙᴀ, ᴋᴀɪᴊᴜ ɴ8, ᴍᴏʙ ᴘsʏᴄʜᴏ 100, ᴏɴᴇ ᴘᴜɴᴄʜ ᴍᴀɴ, ᴊᴊᴋ, ᴘᴀᴄɪғɪᴄ ʀɪᴍ: ᴅᴀʀᴋ ᴢᴏɴᴇ, ᴍᴀsᴛᴇʀ ᴏғ ᴀʟʟ ᴘᴀᴡs ᴛʜᴇ ᴄᴀᴛ ɪs sᴀᴅ ᴀɢᴀɪɴ, ᴍɪss ᴋᴏʙᴀʏᴀsʜɪ's ᴅʀᴀɢᴏɴ ᴍᴀɪᴅ, ɴᴏ ɢᴜɴs ʟɪғᴇ.
 
-<div id="header" align="center">
-  <img src="https://64.media.tumblr.com/1c9c040ca88960edc83d1de6a9415289/90e1de9d1f44f461-d7/s540x810/e4156d9f4ed97df9fc143a62997900f58721d43c.gifv" width="200"/>
-</div>
+<p align="center">
+      <img width="1280" height="920" alt="image" src="https://64.media.tumblr.com/f0f007273e441556bfda66b0aa397da8/1fcf1d3b466aafa5-bb/s1280x1920/b77ce955e82b44f7204d862034a7880dd7bd7053.jpg" />
 
 <div id="header" align="center">
 
