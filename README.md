@@ -1,30 +1,26 @@
 # Kisel
-
+WIP!!
+<div id="header" align="">
+  
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/2b218a8e8b9414b64a92d41f4f7ea428/5ffe864cc72d3596-49/s400x600/4fa87c15632522ce2eaf63e066696c6cd5756bb3.gifv" width="200"/>
+  <img src="https://64.media.tumblr.com/cf81e256b862c5c5781ed4dd7f852ecb/e4faf451d7d1f33d-f4/s1280x1920/b880956ac2a9b6183b5d004d0e547b0fc471675e.pnj" width="900"/>
  
  </div><div id="header" align="center">
 </div>
 <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/b796b93c2074151d369cc402a95d8ded/9cacebf979635d13-ef/s540x810/f2c2c91aea23b49ef3f0088160fda92fb583c557.gifv" width="700"/>
+  <img src="https://64.media.tumblr.com/9550407eaa96ca995ccffc99af3e90b8/3ef36354f88f59ad-0b/s540x810/b8fdbcb9426683e8eef72691a510ca8bd8abf8d5.gifv" width="700"/>
 </div>
-
-# 
 <div id="header" align="center">
-————————————————————————————————————————————
-<div id="header" align="center">
-ɢʟᴀᴅ ᴛᴏ sᴇᴇ ᴜ.ᐟ 
-<div id="header" align="center">
-————————————————————————————————————————————
-<div id="header" align="center">
+  <img src="https://64.media.tumblr.com/e06ab10def9c73c75efc45c1c1b55de7/e4faf451d7d1f33d-20/s1280x1920/d4b969f4d4b184f8765ca3453b38d4e97ecd3871.pnj" width="900"/>
+  
 
-ㅤㅤㅤㅤㅤㅤㅤ(๑>؂•̀๑)ㅤㅤㅤㅤㅤㅤㅤ
+<br />  <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/34b1b229d41ca28226431363dec6c419/4e3899e8f86fb4ec-ce/s250x400/85dd23817d75d9d7a03f64c7176ebb101a206933.gifv" width="20"/>(put text here)
+<br />  <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/34b1b229d41ca28226431363dec6c419/4e3899e8f86fb4ec-ce/s250x400/85dd23817d75d9d7a03f64c7176ebb101a206933.gifv" width="20"/>(put text here)
 
-<br />  ❞ ʏᴏᴜ ᴄᴀɴ ᴄᴀʟʟ ᴍᴇ ᴋɪsᴇʟ / ᴋɪsᴇsʜ ᴏʀ ᴡʜᴀᴛᴇᴠᴇʀ ᴜ ᴡᴀɴᴛ 𐔌՞ ܸ.ˬ.ܸ՞𐦯
-
-<br />  ❞ ɪᴍ ᴀ 17 ʏᴏ ᴀʀᴛɪsᴛ, sᴛʏᴅɪɴɢ ᴛᴏ ʙᴇᴄᴏᴍᴇ ᴀ ᴘʀᴏɢʀᴀᴍᴍᴇʀ ɪɴ ᴄ++
-
-<br /> ❞ ɪᴍ ғʀɪᴇɴᴅʟʏ ᴛᴏ ᴘᴘʟ ᴛʜᴀᴛ sʜᴀʀᴇ ɪɴᴛᴇʀᴇsᴛs ᴡ ᴍᴇ, sᴏ ᴘʟs ᴅᴏɴᴛ ʙᴇ ᴀғʀᴀɪᴅ ᴛᴏ ɪɴᴛ ғɪʀsᴛ!
+<br /> <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/34b1b229d41ca28226431363dec6c419/4e3899e8f86fb4ec-ce/s250x400/85dd23817d75d9d7a03f64c7176ebb101a206933.gifv" width="20"/>(put text here)
 
 ## 𝑀𝑌 𝐹𝐴𝑉 𝐹𝐴𝑁𝐷𝑂𝑀𝑆 .ᐟ.ᐟ
 
