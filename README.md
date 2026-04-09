@@ -1,5 +1,4 @@
 # Kisel
-WIP!!
 <div id="header" align="">
   
 <div id="header" align="center">
@@ -12,38 +11,65 @@ WIP!!
 </div>
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/e06ab10def9c73c75efc45c1c1b55de7/e4faf451d7d1f33d-20/s1280x1920/d4b969f4d4b184f8765ca3453b38d4e97ecd3871.pnj" width="900"/>
+
+<div id="header" align="center">
+  <img src="https://blinkies.cafe/b/blinkiesCafe-Mo.gif" width="150"/>
+</div>
   
+<div id="header" align="center">  <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/996fafc0cbe9c6abe4cf8f9a49819f08/ba67ba8a4f9a99fa-89/s500x750/1759bc87c5b3950ed45c542ad5d1546c65418d94.pnj" width="20"/>
+</div>𝑎𝑏𝑡 𝑚𝑒 ⤵
 
 <br />  <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/34b1b229d41ca28226431363dec6c419/4e3899e8f86fb4ec-ce/s250x400/85dd23817d75d9d7a03f64c7176ebb101a206933.gifv" width="20"/>(put text here)
-<br />  <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/34b1b229d41ca28226431363dec6c419/4e3899e8f86fb4ec-ce/s250x400/85dd23817d75d9d7a03f64c7176ebb101a206933.gifv" width="20"/>(put text here)
-
+  <img src="https://64.media.tumblr.com/34b1b229d41ca28226431363dec6c419/4e3899e8f86fb4ec-ce/s250x400/85dd23817d75d9d7a03f64c7176ebb101a206933.gifv" width="20"/>You can call me whatever you want, my friends call me Kisel | Kisesh | Kiki
+  <br />  <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/34b1b229d41ca28226431363dec6c419/4e3899e8f86fb4ec-ce/s250x400/85dd23817d75d9d7a03f64c7176ebb101a206933.gifv" width="20"/> I'm 17 y.o and I make friends easily, my MBTI type is 
+  INTP-T
 <br /> <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/34b1b229d41ca28226431363dec6c419/4e3899e8f86fb4ec-ce/s250x400/85dd23817d75d9d7a03f64c7176ebb101a206933.gifv" width="20"/>(put text here)
+  <img src="https://64.media.tumblr.com/34b1b229d41ca28226431363dec6c419/4e3899e8f86fb4ec-ce/s250x400/85dd23817d75d9d7a03f64c7176ebb101a206933.gifv" width="20"/>If we have common interests, or you just want to get to know me, don't be shy :р
 
-## 𝑀𝑌 𝐹𝐴𝑉 𝐹𝐴𝑁𝐷𝑂𝑀𝑆 .ᐟ.ᐟ
+#
+<div id="header" align="center">
+  <img src="https://blinkies.cafe/b/blinkiesCafe-WU.gif" width="150"/>
+</div>
 
-➥ ɢᴀᴍᴇs: ᴜʟᴛʀᴀᴋɪʟʟ, sᴜʙɴᴀᴜᴛɪᴄᴀ, ᴅᴇᴛʀᴏɪᴛ, ᴄʀʏ ᴏғ ғᴇᴀʀ, ᴀғʀᴀɪᴅ ᴏғ ᴍᴏɴsᴛᴇʀs, sɪʟᴇɴᴛ ʜɪʟʟ (sɪʟᴇɴᴛ ʜɪʟʟ 2 ʀᴇᴍᴀᴋᴇ, sɪʟᴇɴᴛ ʜɪʟʟ ғ), sᴏᴍᴀ, ʀᴇsɪᴅᴇɴᴛ ᴇᴠɪʟ (ʀᴇsɪᴅᴇɴᴛ ᴇᴠɪʟ 4, ʀᴇsɪᴅᴇɴᴛ ᴇᴠɪʟ ᴠɪʟʟᴀɢᴇ), ᴅᴇᴠɪʟ ᴍᴀʏ ᴄʀʏ, ᴛᴇᴀᴍ ғᴏʀᴛʀᴇss 2, ᴍᴏʀᴛᴀʟ ᴄᴏᴍʙᴀᴛ, ᴍᴇᴛᴀʟ ɢᴇᴀʀ, ᴀʟʟ sᴇʀɪᴇs ᴏғ ɢᴀᴍᴇs ʙᴀsᴇᴅ ᴏɴ ᴛʜᴇ ᴊᴜʀᴀssɪᴄ ᴡᴏʀʟᴅ ᴀɴᴅ sᴛᴀʀ ᴡᴀʀs ғʀᴀɴᴄʜɪsᴇs, ᴍᴏɴsᴛᴇʀ x ᴍᴇᴅɪᴀᴛᴏʀ, ᴄᴀʟʟ ᴏғ ᴅᴜᴛʏ, ғᴏʀsᴀᴋᴇɴ, ᴅᴇᴀᴅ ʙʏ ᴅᴀʏʟɪɢʜᴛ. 
+#
 
-➥ ᴀɴɪᴍᴇ: ᴊᴊʙᴀ, ᴋᴀɪᴊᴜ ɴ8, ᴍᴏʙ ᴘsʏᴄʜᴏ 100, ᴏɴᴇ ᴘᴜɴᴄʜ ᴍᴀɴ, ᴊᴊᴋ, ᴘᴀᴄɪғɪᴄ ʀɪᴍ: ᴅᴀʀᴋ ᴢᴏɴᴇ, ᴍᴀsᴛᴇʀ ᴏғ ᴀʟʟ ᴘᴀᴡs ᴛʜᴇ ᴄᴀᴛ ɪs sᴀᴅ ᴀɢᴀɪɴ, ᴍɪss ᴋᴏʙᴀʏᴀsʜɪ's ᴅʀᴀɢᴏɴ ᴍᴀɪᴅ, ɴᴏ ɢᴜɴs ʟɪғᴇ.
+## MY MAIN FANDOMS:
 
-<p align="center">
-      <img width="1280" height="920" alt="image" src="https://64.media.tumblr.com/5460729cdbfd73e01bc740735e046a85/1fcf1d3b466aafa5-16/s1280x1920/26a4e9f8851e1b975ccab17567433cae38384e8d.jpg" />
+<br />  <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/cc202f305df6558356c12870be48dcad/fc57789cd36d378a-b6/s250x400/e7a1d4c8e567b147931b49a6ddf7e4e9381f1c6d.gifv" width="20"/>Team Fortress  2, <br />  <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/b66da4c3c28f8cc5aebaaaa004418449/ed0ce32a70db0530-7c/s100x200/d39f878f7265d345027461475288147c3e09be79.gifv" width="20"/>Spider-Man: Across the spiderverse, <br />  <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/2d19f54dcbb0ebecb469e8a6184ac905/9d35294779ac0ce7-e7/s100x200/c4bd65c49f44608f8c777124a926a6237d658ca6.gifv" width="20"/>JJBA
+
+#
+  PLS INT IF YOU LIKE THESE THREE FANDOMS!!
+#
 
 <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/d1c5c02dd1bcca7cd5653f2af53e4756/ba67ba8a4f9a99fa-e4/s500x750/049f0f342f927c2459c511be4c80e7189e91f1c0.pnj" width="160"/>
+</div>
 
-## ➥ ᴀʙᴛ ᴍᴇ
+## ANOTHER FANDOMS
 
-` **ɪɴᴛᴘ-ᴛ** ; sʜᴇ/ʜᴇʀ ; ᴅᴇᴍɪsᴇxᴜᴀʟ ; ʟɪᴋᴇs ᴛᴏ ᴅʀᴀᴡ.ᐟ.ᐟ
+Games: Ultrakill, Subnautica, Detroit: Become human, afraid of monsters, silent hill, SOMA, Resident Evil, DMC, Team Fortress 2, Metal gear, all series of games based on the Jurassic world and Star Wars franchises, Monster X Mediator, Call of Duty, Dead By Daylight
+
+#
+Anime: JOJO'S BIZARRE ADVENTURE, Kaiju №⁸, Mob Psycho 100, One punch man, JJK, Pacific Rim: Dark Zone, Master of all paws the cat is sad again, Miss Kobayashi's dragon maid, No guns life, Magic And Muscles
+
+#
+I also know a lot of movies, but I don’t remember the exact list, of my favorites I can only note: I Am Legend, Pacific Rim, Predator, Friday the 13th
+#
 
 <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/4cbb01bfa2d962b26e883cead57fa204/ba67ba8a4f9a99fa-20/s500x750/4ab2013103724e3697ff1f13bb91a9ba27fa4626.pnj" width="150"/>
+</div>
 
- ## ᴅɴɪ ɪғ ʏᴏᴜ:
-
- <div id="header" align="center">
- ʀ4ᴄɪsᴛ, ʜ0ᴍ0ᴘʜᴏʙᴇ. ᴏʀ ɪғ ᴜ ʟɪᴋᴇ 1ɴᴄ3sᴛ ᴏʀ ᴀᴘᴘʀᴏᴠᴇ ᴘ3ᴅ0ᴘʜɪʟ1ᴀ. (๑•̀ᗝ•́)૭
-
- <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/7e06003a25588d202a094efdc0b94441/4474452604f9851f-72/s500x750/fadc353dcb0847b50d006a39d90171a724bd18ae.gifv" width="200"/>
+ ## DO NOT INTERACT WITH ME IF YOU:
+<div id="header" align="center">
+  <img src="https://64.media.tumblr.com/b0b250ec8a7b8843d157dddce02bdf88/e1aed535dca23fc5-c3/s1280x1920/5c8a6a3080b15360d15f4093e4f6de645c70c4db.pnj" width="350"/>
+</div>
+ <div id="header" align="center">Racists, homophobes, transphobes, misogynists, DMC FANS!! And dni pls if you under 15 y.o 
+  <div id="header" align="center">
+  <img src="https://64.media.tumblr.com/becd20d6179f62208769d197188a0f8b/1b4fa5e508c3acee-bf/s500x750/7723813707a6c5ead50cc4f2edeed847a7f32953.pnj"50"/>
 </div>
