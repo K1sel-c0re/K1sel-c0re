@@ -13,7 +13,7 @@
   <img src="https://64.media.tumblr.com/e06ab10def9c73c75efc45c1c1b55de7/e4faf451d7d1f33d-20/s1280x1920/d4b969f4d4b184f8765ca3453b38d4e97ecd3871.pnj" width="900"/>
 
 <div id="header" align="center">
-  <img src="https://blinkies.cafe/b/blinkiesCafe-Mo.gif" width="150"/>
+  <img src="https://64.media.tumblr.com/7581f8822e59ad14d25ff99f0478408a/d798c5e0ccdc813d-9c/s250x400/9524cf53913258a100db365e2ccb60571443e1d6.gifv" width="150"/>
 </div>
   
 <div id="header" align="center">  <div id="header" align="center">
@@ -30,7 +30,7 @@
 
 #
 <div id="header" align="center">
-  <img src="https://blinkies.cafe/b/blinkiesCafe-WU.gif" width="150"/>
+  <img src="https://64.media.tumblr.com/db5119425092cf31380964edf7cd4172/d798c5e0ccdc813d-cc/s400x600/fd350129200fc42705909c701f1335525b2f34ba.gifv" width="150"/>
 </div>
 
 #
