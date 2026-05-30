@@ -34,34 +34,12 @@
   <img src="https://64.media.tumblr.com/6e9b36b0314c353d5a91290be91bb995/f60ba93cf01984ab-dd/s540x810/0c2694246769262535346935e2d0de072adeb36f.gifv" width="20"/>Star Wars
 
 #
-  PLS INT IF YOU LIKE THESE THREE FANDOMS!!
+  PLS INT IF YOU LIKE THESE FANDOMS!!
 #
 
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/bfad3d30de8a9df1a228d282a5c08b8c/3e1abc022abc03fd-fb/s500x750/5a85a1be4c2afbac3f48b794f82bd7f52a3806fb.pnj" width="160"/>
 </div>
-
-## ANOTHER FANDOMS
-
-Games: Ultrakill, Subnautica, Detroit: Become human, afraid of monsters, silent hill, SOMA, Resident Evil, DMC, Team Fortress 2, Metal gear, all series of games based on the Jurassic world and Star Wars franchises, Monster X Mediator, Call of Duty, Dead By Daylight
-
-#
-Anime: JOJO'S BIZARRE ADVENTURE, Kaiju №⁸, Mob Psycho 100, One punch man, JJK, Pacific Rim: Dark Zone, Master of all paws the cat is sad again, Miss Kobayashi's dragon maid, No guns life, Magic And Muscles
-
-#
-I also know a lot of movies, but I don’t remember the exact list, of my favorites I can only note: I Am Legend, Pacific Rim, Predator, Friday the 13th
-#
-
-<div id="header" align="center">
-  <img src="https://64.media.tumblr.com/0f32753d2dab5013c8136affdd8a9708/3290d113d96ba14e-b3/s400x600/4b2728300dc31e43615bfdfd527d0b2a4acd3451.pnj" width="150"/>
-</div>
-
- ## THIN ICE
- ## DO NOT INTERACT WITH ME IF YOU:
 <div id="header" align="center">
   <img src="https://64.media.tumblr.com/f27679d01a59184053a0874b8e7fd0e8/53460eb827122b25-3f/s640x960/1bc940020da9cd9b42e1c66ace49087b68985410.gifv" width="350"/>
-</div>
- <div id="header" align="center">Racists, homophobes, transphobes, misogynists, DMC FANS!! And dni pls if you under 15 y.o 
-  <div id="header" align="center">
-  <img src="https://64.media.tumblr.com/6093c3ef4e7573aa44726776214076ba/e1bd02f32b7bf0a9-8a/s500x750/d0a8f21990f85a5b42bb146e91b9ba577ff909f1.pnj" width="50"/>
 </div>
